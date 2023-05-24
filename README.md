@@ -8,7 +8,7 @@
     <a href="https://cheloved.itch.io/forward-to-the-future">View Game</a>
   </p>
 
-![Contributors](https://img.shields.io/github/contributors/Chelovedus/Forward-To-The-Future?color=dark-green) ![Issues](https://img.shields.io/github/issues/Chelovedus/Forward-To-The-Future)
+<p align="center"> <img src="https://img.shields.io/github/contributors/Chelovedus/Forward-To-The-Future?color=dark-green" /> <img src="https://img.shields.io/github/issues/Chelovedus/Forward-To-The-Future" /> </p>
 
 ## About The Project
 
