@@ -25,7 +25,3 @@ These are the scripts that were used in my first game: https://cheloved.itch.io/
 ## Authors
 
 * [Cheloved](https://github.com/Chelovedus) - *Unity Developer*
-
-## Acknowledgements
-
-* [Chelovedus](https://github.com/Chelovedus)
