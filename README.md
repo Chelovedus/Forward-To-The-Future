@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Chelovedus/Forward To The Future/total) ![Contributors](https://img.shields.io/github/contributors/Chelovedus/Forward To The Future?color=dark-green) ![Issues](https://img.shields.io/github/issues/Chelovedus/Forward To The Future) ![License](https://img.shields.io/github/license/Chelovedus/Forward To The Future) 
+![Downloads](https://img.shields.io/github/downloads/Chelovedus/Forward-To-The-Future/total) ![Contributors](https://img.shields.io/github/contributors/Chelovedus/Forward-To-The-Future?color=dark-green) ![Issues](https://img.shields.io/github/issues/Chelovedus/Forward-To-The-Future) ![License](https://img.shields.io/github/license/Chelovedus/Forward-To-The-Future) 
 
 ## About The Project
 
