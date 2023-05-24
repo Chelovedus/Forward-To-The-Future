@@ -1,8 +1,6 @@
-# Forward-To-The-Future
-The first game I created on Unity.
 <br/>
 <p align="center">
-  <a href="https://github.com/Chelovedus/Forward To The Future">
+  <a href="https://github.com/Chelovedus/Forward-To-The-Future">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
