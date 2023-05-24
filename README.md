@@ -1,8 +1,3 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/Chelovedus/Forward-To-The-Future">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
-  </a>
 
   <h3 align="center">Forward To The Future</h3>
 
@@ -13,7 +8,7 @@
     <a href="https://cheloved.itch.io/forward-to-the-future">View Game</a>
   </p>
 
-![Contributors](https://img.shields.io/github/contributors/Chelovedus/Forward-To-The-Future?color=dark-green) ![Issues](https://img.shields.io/github/issues/Chelovedus/Forward-To-The-Future) ![License](https://img.shields.io/github/license/Chelovedus/Forward-To-The-Future) 
+![Contributors](https://img.shields.io/github/contributors/Chelovedus/Forward-To-The-Future?color=dark-green) ![Issues](https://img.shields.io/github/issues/Chelovedus/Forward-To-The-Future)
 
 ## About The Project
 
